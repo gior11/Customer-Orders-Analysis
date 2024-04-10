@@ -1,4 +1,4 @@
-Solved a business problem using SQL(Postgre):
+Solved a business task using SQL(Postgre):
 
 Show results for customers that have placed at
 least 5 orders, containing the following information:
