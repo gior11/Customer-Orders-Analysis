@@ -11,3 +11,4 @@ use the one with the most recent order)
 - % of delivered orders
 - Time when the last order was placed
 - Time (in days) that passed from the second last order to the last one
+ 
